@@ -12,13 +12,13 @@ Note : 📝 Queen is a chatbot for telegram group .
  
                                  
 ### Reach Me
-<p align="center"><a href="http://t.me/QueenXchatbot"> <img src="https://img.shields.io/badge/Telegram%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://t.me/Sidra_robot"> <img src="https://img.shields.io/badge/Telegram%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 ### Support 
 
-<p align="center"><a href="https://t.me/WorldChattingFriendsWCF"> <img src="https://img.shields.io/badge/Queen%20Chat%20Support-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/Teamxo77> <img src="https://img.shields.io/badge/Queen%20Chat%20Support-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://t.me/WCFnetwork"> <img src="https://img.shields.io/badge/Queen%20Chat%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/Teamxo77"> <img src="https://img.shields.io/badge/Queen%20Chat%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-## © Copyright - Queen  (Sangram)
+## © Copyright - Sidra  (Robin)
 
