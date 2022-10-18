@@ -20,5 +20,5 @@ Note : 📝 Queen is a chatbot for telegram group .
 
 <p align="center"><a href="https://t.me/Teamxo77"> <img src="https://img.shields.io/badge/Queen%20Chat%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-## © Copyright - Sidra  (Robin)
+## © Copyright - Sidra (Robin)
 
